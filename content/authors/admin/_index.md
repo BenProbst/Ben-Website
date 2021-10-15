@@ -1,5 +1,6 @@
 ---
 role: Senior Researcher ETH Zurich
+avatar_filename: img_8943.jpg
 bio: My research interests include investigating the effects of policies to spur
   clean technology innovation and deployment.
 interests: []
